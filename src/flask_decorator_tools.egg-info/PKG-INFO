@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: flask-decorator-tools
-Version: 0.0.3
+Version: 0.0.7
 Summary: A package with tools for use with flask
 Home-page: https://github.com/max-wickham/flask_tools
 Author: Max Wickham
